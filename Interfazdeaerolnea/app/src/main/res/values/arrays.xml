@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Tratamiento">
+        <item>Sr.</item>
+        <item>Sra.</item>
+        <item>Srta.</item>
+    </string-array>
+
+    <string-array name="CiudadOrigen">
+        <item>Granada</item>
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Bilbao</item>
+        <item>Málaga</item>
+        <item>París</item>
+        <item>China</item>
+        <item>Japón</item>
+        <item>Argentina</item>
+        <item>Uruguay</item>
+    </string-array>
+
+    <string-array name="CiudadDestino">
+        <item>París</item>
+        <item>China</item>
+        <item>Japón</item>
+        <item>Argentina</item>
+        <item>Uruguay</item>
+        <item>Granada</item>
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Bilbao</item>
+        <item>Málaga</item>
+    </string-array>
+</resources>

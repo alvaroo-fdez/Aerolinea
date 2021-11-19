@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/mi_cuenta" android:id="@+id/item1" >
+        <menu>
+            <item android:title="@string/datos_personales"
+                android:id="@+id/item2"/>
+            <item android:title="@string/mis_documentos_de_viaje"
+                android:id="@+id/item3"/>
+            <item android:title="@string/mis_compa_eros_de_viaje"
+                android:id="@+id/item4"/>
+        </menu>
+    </item>
+    <item android:title="@string/mis_viajes"
+        android:id="@+id/item5"/>
+    <item android:title="@string/tarjetas_de_embarque"
+        android:id="@+id/item6"/>
+    <item android:title="@string/informaci_n_sobre_el_vuelo"
+        android:id="@+id/item7"/>
+    <item android:title="@string/info_actualizada"
+        android:id="@+id/item8"/>
+    <item android:title="@string/vales_de_regalo"
+        android:id="@+id/item9"/>
+    <item android:title="@string/revista_de_vuelo"
+        android:id="@+id/item10"/>
+    <item android:title="@string/t_rminos_y_condiciones"
+        android:id="@+id/item11"/>
+    <item android:title="@string/centro_de_ayuda"
+        android:id="@+id/item12"/>
+    <item android:title="@string/contactar_con_la_aerol_nea"
+        android:id="@+id/item13"/>
+    <item android:title="@string/pol_tica_de_privacidad"
+        android:id="@+id/item14"/>
+    <item android:title="@string/configuraci_n_de_privacidad"
+        android:id="@+id/item15"/>
+</menu>
